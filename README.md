@@ -1,5 +1,5 @@
 ## Anime face detection
-* refer to blog for more info: [seuphor's blog](http://www.seuphor.github.io/personalsite/deep_learning)
+* refer to blog for more info: [seuphor's blog](seuphor.github.io/personalsite/deep_learning)
 
 ## Notes:
 * This repo is only for reference purpose
