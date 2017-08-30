@@ -1,6 +1,13 @@
 ## Anime face detection
 * refer to blog for more info: [seuphor's blog](http://seuphor.github.io/personalsite/deep_learning)
 
+## Example:
+<div align="center">
+<img src="https://raw.githubusercontent.com/seuphor/anime_face_cnn/master/examples/Complete_feed.jpg">
+	
+</div>
+<hr>
+
 ## Notes:
 * This repo is only for reference purpose
 * Trained weights and test image is not uploaded due to amount of data size
